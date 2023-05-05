@@ -1,0 +1,12 @@
+datasets==2.1.0
+kaggle==1.5.13
+kaggle-environments==1.12.0
+matplotlib==3.6.3
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+matplotlib-venn==0.11.9
+numpy==1.23.5
+osmnx==1.1.1
+torch==2.0.0+cpu
+torchvision==0.15.1+cpu
+
+
